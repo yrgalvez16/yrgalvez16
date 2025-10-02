@@ -34,6 +34,11 @@ Aquí encontrarás una selección de mis trabajos más representativos. Cada pro
 
 ---
 
+### ⭐ Idea Extra: ¡Hazlo destacar!
+![Estadísticas de GitHub de Yrgalvez17](https://github-readme-stats.vercel.app/api?username=yrgalvez16&theme=shadow_blue&show_icons=true)
+
+---
+
 ### 📫 ¡Hablemos!
 
 Estoy buscando activamente mi próxima oportunidad como desarrollador. Si mi perfil te parece interesante, ¡no dudes en contactarme!
@@ -50,7 +55,7 @@ Tengo que Aplrender a usar lo de las ideas extras.
 Para darle un toque más profesional y dinámico a tu perfil, puedes añadir **insignias de métricas de GitHub**. Estas se actualizan automáticamente y muestran tu actividad, lenguajes más usados y estadísticas de contribuciones.
 
 **Ejemplo:**
-![Estadísticas de GitHub de Yrgalvez17](https://github-readme-stats.vercel.app/api?username=yrgalvez17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estadísticas de GitHub de Yrgalvez17](https://github-readme-stats.vercel.app/api?username=yrgalvez16&theme=shadow_blue&show_icons=true)
 
 Para generar las tuyas, solo tienes que modificar la URL con tu nombre de usuario. Puedes explorar más opciones en el repositorio de [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
