@@ -16,9 +16,7 @@ Aquí encontrarás una selección de mis trabajos más representativos. Cada pro
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |---|---|---|---|
-| **Gestor de Tareas Inteligente** | Una aplicación web para la gestión de proyectos personales que prioriza tareas automáticamente usando un algoritmo simple. | 🖥️ **Frontend:** Blazor WebAssembly <br> ⚙️ **Backend:** .NET 8, C# <br> 🗃️ **Base de Datos:** SQL Server | [Ver Repositorio](https://github.com/yrgalvez17/YourTask) |
-| **API REST para E-commerce** | Un backend robusto para una tienda en línea, con autenticación, gestión de inventario, procesamiento de pedidos y endpoints seguros. | ⚙️ **Backend:** ASP.NET Core Web API, C# <br> 🔐 **Autenticación:** JWT <br> ☁️ **Cloud:** Azure Functions | [Ver Repositorio](https://github.com/yrgalvez17/ecom) |
-| **Clon de Red Social (Concepto)** | Un prototipo de red social enfocado en compartir proyectos de código, con perfiles de usuario, posts y sistema de comentarios en tiempo real. | 🖥️ **Frontend:** React.js <br> ⚙️ **Backend:** .NET 8, SignalR <br> 🗃️ **Base de Datos:** PostgreSQL | [Ver Repositorio](https://github.com/yrgalvez17/clon) |
+| **# 🚀 Task Manager Full-Stack** | Sistema de gestión de tareas desarrollado con tecnologías de última generación, enfocado en escalabilidad y contenedorización. | 🖥️ **Frontend:** React + Modern CSS <br> ⚙️ **Backend:** .NET 10 (ASP.NET Core Web API) <br> 🗃️ **Base de Datos:** SQL Server 2022 (Dockerized) | [Ver Repositorio](https://github.com/yrgalvez16/TaskManagerAPI) |
 
 ---
 
