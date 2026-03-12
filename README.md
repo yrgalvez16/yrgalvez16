@@ -25,14 +25,14 @@ Aquí encontrarás una selección de mis trabajos más representativos. Cada pro
 | Categoría | Tecnologías |
 |---|---|
 | 🌐 **Lenguajes** | C#, SQL, JavaScript, HTML5, CSS3 |
-| ⚙️ **Frameworks & Runtimes** | .NET (8/6), ASP.NET Core, Entity Framework Core, React.js, Node.js |
+| ⚙️ **Frameworks & Runtimes** | .NET, ASP.NET Core, Entity Framework Core, React.js, Node.js |
 | 🗃️ **Bases de Datos** | Microsoft SQL Server, PostgreSQL, MySQL |
-| ☁️ **Cloud & DevOps** | Azure (App Service, Functions), Git, GitHub, Docker (Básico) |
+| ☁️ **Cloud & DevOps** | Azure (App Service, Functions), GitHub, Docker |
 | 🔧 **Herramientas** | Visual Studio 2022, VS Code, Postman, SQL Server Management Studio |
 
 ---
 
-### ⭐ Idea Extra: ¡Hazlo destacar!
+### ⭐ Idea Extra:
 ![Estadísticas de GitHub de Yrgalvez17](https://github-readme-stats.vercel.app/api?username=yrgalvez16&theme=shadow_blue&show_icons=true)
 
 ---
