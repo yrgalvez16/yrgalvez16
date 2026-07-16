@@ -26,9 +26,9 @@ Aquí encontrarás una selección de mis trabajos más representativos. Cada pro
 |---|---|
 | 🌐 **Lenguajes** | C#, SQL, JavaScript, HTML5, CSS3 |
 | ⚙️ **Frameworks & Runtimes** | .NET, ASP.NET Core, Entity Framework Core, React.js, Node.js |
-| 🗃️ **Bases de Datos** | Microsoft SQL Server, PostgreSQL, MySQL |
-| ☁️ **Cloud & DevOps** | Azure (App Service, Functions), GitHub, Docker |
-| 🔧 **Herramientas** | Visual Studio 2022, VS Code, Postman, SQL Server Management Studio |
+| 🗃️ **Bases de Datos** | Microsoft SQL Server, MySQL |
+| ☁️ **Cloud & DevOps** | GitHub, Docker |
+| 🔧 **Herramientas** | Visual Studio 2022, VS Code, SQL Server Management Studio |
 
 ---
 
