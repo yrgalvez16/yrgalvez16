@@ -1,16 +1,16 @@
-# ¡Hola! Soy Yerlin Rojas Galvez 👋 | Desarrollador Full-Stack Junior
+# ¡Hi! i'm Yerlin Rojas Galvez 👋 |  Junior Full-Stack development
 
-### 🚀 Transformando ideas en soluciones de software robustas y escalables.
+### 🚀 Transforming ideas into robust and scalable software solutions.
 
 ---
 
-### Sobre Mí 👨‍💻
+### About me 👨‍💻
 
 Soy un desarrollador Full-Stack Junior apasionado por la creación de aplicaciones web intuitivas y eficientes. Con una sólida base en **C#** y el ecosistema **.NET**, me especializo en construir tanto el backend lógico como el frontend interactivo. Me encanta enfrentar desafíos, aprender continuamente y colaborar en equipo para entregar productos de alta calidad. Mi objetivo es aportar valor a través de código limpio y soluciones bien pensadas.
 
 ---
 
-### 📂 Portafolio de Proyectos
+### 📂 Project Portfolio
 
 Aquí encontrarás una selección de mis trabajos más representativos. Cada proyecto es un reflejo de mis habilidades y mi pasión por el desarrollo.
 
@@ -20,21 +20,21 @@ Aquí encontrarás una selección de mis trabajos más representativos. Cada pro
 
 ---
 
-### 🛠️ Mis Habilidades (Skills)
+### 🛠️ Me skills
 
-| Categoría | Tecnologías |
+| Category | technology |
 |---|---|
 | 🌐 **Lenguajes** | C#, SQL, JavaScript, HTML5, CSS3 |
 | ⚙️ **Frameworks & Runtimes** | .NET, ASP.NET Core, Entity Framework Core, React.js, Node.js |
-| 🗃️ **Bases de Datos** | Microsoft SQL Server, MySQL |
+| 🗃️ **Databases** | Microsoft SQL Server, MySQL |
 | ☁️ **Cloud & DevOps** | GitHub, Docker |
 | 🔧 **Herramientas** | Visual Studio 2022, VS Code, SQL Server Management Studio |
 
+<!--
 ---
-
 ### ⭐ Idea Extra:
 ![Estadísticas de GitHub de Yrgalvez17](https://github-readme-stats.vercel.app/api?username=yrgalvez16&theme=shadow_blue&show_icons=true)
-
+-->
 ---
 
 ### 📫 ¡Hablemos!
